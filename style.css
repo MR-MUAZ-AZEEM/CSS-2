@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    color: white;
+    background-color: black;
+    height: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#logo{
+    color: rgb(171, 171, 241);
+    font-size: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+}     
+.anch{
+    text-decoration-line:none ;
+    margin: 20px;
+    padding-top: 20px;
+}
+#img{
+    margin-top: 10px;
+}
+#icon{
+    margin-top: 0px;
+    padding-top: 0px;
+}   
+.header{
+    color: white;
+    background-color: black;
+    height: 210px;
+    font-size: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.date{
+    font-size: 15px;
+    padding-right: 75px;
+    padding-top: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pic{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.centre{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.para{
+    font-size: 20px;
+}
+#table{
+    font-size: 20px;
+    font-weight: 600;
+    border-left: 2px solid  black;
+    margin-left: 25px;
+}
+.page{
+    font-size: small;
+    margin-right: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#Sicons{
+    margin-left: 350px;
+}
+.footer{
+    background-color: black;
+    padding-left: 200px;
+    padding-right: 200px;
+    height: 270px;
+}
+#circle{
+    margin-left: 590px;
+    border: 2px solid red;
+    border-radius: 48%;
+    height: 49px;
+    width: 50px;  
+    background-color: black;
+}
+#cike{
+    /* margin-left: 175px; */
+    margin-top: 60px;
+    background: linear-gradient(
+        to bottom,
+        white 0%,
+        white 50%,
+        black 50%,
+        black 100%
+    );
+}
+
+#end{
+    color: white;
+    padding-left: 50px;
+    padding-right: 0px;
+    padding-top: 30px;
+}
+.one{
+    width: 290px;
+    padding-top: 20px;
+}
+.two{
+    width: 200px;
+}
+#pend{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
